@@ -1,4 +1,3 @@
-import { Server } from 'http'
 import { ServerError } from '../errors/server-error'
 import { HttpResponse } from '../protocols/http'
 
